@@ -2,7 +2,7 @@
   "name": "flatten-array",
   "version": "1.0.0",
   "description": "Given a nested list of integers, implement a function to flatten it",
-  "main": "flattenIntegers.js",
+  "main": "flattenIntegers.js, flattenIntegers_recursively.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

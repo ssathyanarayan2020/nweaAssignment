@@ -15,4 +15,3 @@ flattenIntegers(input2, 2);
 
 let input3 = [[1], [2, 3], [4, 5, 6, 7]]
 flattenIntegers(input3, 3);
-
